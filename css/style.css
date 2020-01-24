@@ -1,0 +1,88 @@
+/*body*/
+body {
+	margin: auto;
+  padding: auto;
+  box-sizing: border-box;
+  font-family: arial, helvetica, sans-serif;
+  
+}
+
+.main-container {
+  width: 80%;
+  margin:auto;
+}
+.row{
+  width: 100%;
+}
+
+.c-left, .c-right {
+  width: 50%;
+  float: left;
+}
+.c-left{
+  padding-top: 3em;
+
+}
+.drive, .ride {
+  float: left;
+}
+.drive{
+  width: 35%
+}
+h1{
+  font-size:3em;
+}
+.ride{
+  width: 40%;
+  padding-left: 30px;
+}
+
+.c-right img {
+  width: 100%;
+}
+
+.nav-full{
+  width: 100%;
+  background-color: black;
+  padding: 5px;
+}
+.nav-full a{
+  color:white;
+  text-decoration: none;
+}
+.nav-left{
+  float: left; 
+  padding-right: 750px;
+}
+.nav-left a, .nav-right a{
+  padding-left: 10px;
+  
+}
+
+.btn{
+  background-color: blue;
+  color:white;
+  padding: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
